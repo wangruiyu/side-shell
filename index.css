@@ -14,7 +14,7 @@
 }
 .slide-shell-wrap{
     position: relative;
-    z-index: 10;
+    z-index: 10000;
 }
 .slide-shell-wrap .side-shell{
     width:700px;
@@ -47,7 +47,7 @@
 
 .close-btn-wrap{
     position: relative;
-    z-index: 9;
+    z-index: 10;
 }
 .close-btn-wrap .close-btn{
     position: fixed;
